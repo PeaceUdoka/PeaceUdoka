@@ -5,7 +5,7 @@
 Follow my journey as i learn to unlock the stories hidden within datasets using Python, SQL, Excel, Power BI, Tableau.
 I'm taking my first steps into the world of machine learning. Stay tuned for future projects as i explore their potential, especially in the engineering domain! :construction_worker:
 
-This profile is constantly evolving as I learn and grow. Check back often to see what new data adventures I'm working on :rocket: .
+This profile is constantly evolving as I learn and grow. Check back often to see what new data adventures I'm working on :rocket:.
 
 I;m eager to collaborate and learn from others. Feel free to reach out if you have any projects I can contribute to or any useful advice to help me on my journey.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1p2fsVUOEt3CLGPYpE_jDOkAdjsGZ41XF/view?usp=drive_link ' target=_blank><u>here</u>.</a></p>
 ### Some of my Github Stats
